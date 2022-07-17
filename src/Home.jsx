@@ -21,7 +21,7 @@ const Home = () => {
 
                                 </div> </div>
                             <div className='col-lg-6 order-2 order-lg-2'>
-                                <img src="https://www.kisworks.com/assets/img/reactjs.png" alt="..." className='mx-5 my-5 img-home' />
+                                <img id="animated" src="https://www.kisworks.com/assets/img/reactjs.png" alt="..." className='mx-5 my-5 img-home' />
                             </div>
 
                         </div>
